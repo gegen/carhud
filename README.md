@@ -6,4 +6,5 @@ Edited design and improved functionality.
 
 ### How to Install:
 Download the file. Drag and Drop it's contents into your Server's resources Folder. <br>
+You can now open carhud.lua and edit some settings like color or position.
 After that edit your server.cfg (add this line: *start carhud*). Enjoy!
